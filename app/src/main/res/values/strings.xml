@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ASU GPA</string>
+
+    <string name="grade_prompt">Grade:</string>
+
+    <string-array name="grade_arrays">
+        <item>A+</item>
+        <item>A</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B</item>
+        <item>B-</item>
+        <item>C+</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+    </string-array>
+
+    <string name="credit_prompt">Credits:</string>
+
+    <string-array name="credit_arrays">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+</resources>
